@@ -1,4 +1,4 @@
-# 📱 Mini To-Do (Expo + TypeScript)
+# Mini To-Do (Expo + TypeScript)
 
 ## O que o app faz
 - Lista tarefas (dados fake) com **FlatList**.
