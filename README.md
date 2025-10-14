@@ -1,16 +1,14 @@
-# Mini To-Do
+# Mini To-Do (Expo + TypeScript)
 
-Aplicativo criado com **Expo + TypeScript** para gerenciamento simples de tarefas
+## O que o app faz
+- Lista tarefas (dados fake) com **FlatList**.
+- Cada item usa um componente com **props**, **useState** e **useEffect**.
+- Navega entre **Home → Detalhes → Configurações** via **Expo Router**.
+- Envia **parâmetros** para a tela de Detalhes (`id`, `title`).
+- **Toque longo** abre **ActionSheet** com ações: *Marcar como concluída* e *Excluir*.
 
-## Objetivo
-Permitir ao usuário cadastrar e visualizar uma lista de tarefas diárias, demonstrando:
-- Componentes React com estado e props  
-- Navegação com **Expo Router**  
-- Uso de **FlatList** e **ActionSheet**  
-- Estilos com **StyleSheet**
-
-## Executando o projeto
-
-```bash
-npm install
-npm run start
+## Prints das telas
+<p align="center">
+  <img src="./assets/screenshots/home.jpeg" alt="Home" width="260" />
+  <img src="./assets/screenshots/list.jpeg" alt="Lista (FlatList)" width="260" />
+  <img src="./assets/screenshots/details.jpe
