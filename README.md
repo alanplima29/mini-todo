@@ -24,7 +24,11 @@ npm install ou yarn install
 
 ### 2) Iniciar
 ```bash
-npm run start ou yarn start
+npm run start
+```
+###ou
+```bash
+yarn start
 ```
 ### 3) Abrir no dispositivo:
 ### - Instalar app Expo Go (PlayStore)
