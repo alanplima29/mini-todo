@@ -19,14 +19,19 @@
 
 ### 1) Instalar dependências
 ```bash
-npm install ou yarn install
+npm install
 ```
+## ou
+```bash
+yarn install
+```
+
 
 ### 2) Iniciar
 ```bash
 npm run start
 ```
-###ou
+### ou
 ```bash
 yarn start
 ```
