@@ -21,7 +21,7 @@
 ```bash
 npm install
 ```
-## ou
+#### ou
 ```bash
 yarn install
 ```
@@ -31,7 +31,7 @@ yarn install
 ```bash
 npm run start
 ```
-### ou
+#### ou
 ```bash
 yarn start
 ```
