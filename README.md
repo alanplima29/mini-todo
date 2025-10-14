@@ -17,7 +17,7 @@
 ## Como executar
 
 
-## 1) Instalar dependências
+### 1) Instalar dependências
 ```bash
 npm install ou yarn install
 ```
