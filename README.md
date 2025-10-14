@@ -1,6 +1,6 @@
 # Mini To-Do
 
-Aplicativo simples criado com **Expo + TypeScript** para praticar os conceitos da disciplina.
+Aplicativo criado com **Expo + TypeScript** para gerenciamento simples de tarefas
 
 ## Objetivo
 Permitir ao usuário cadastrar e visualizar uma lista de tarefas diárias, demonstrando:
