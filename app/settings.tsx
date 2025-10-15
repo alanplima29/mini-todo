@@ -5,7 +5,7 @@ export default function SettingsScreen() {
   return (
     <View style={styles.container}>
       <Text style={styles.h1}>Configurações</Text>
-      <Text style={styles.p}>Aqui vamos colocar preferências depois.</Text>
+      <Text style={styles.p}>Modelo de Configuração</Text>
 
       <Link href="/" style={styles.link}>
         Voltar para Home

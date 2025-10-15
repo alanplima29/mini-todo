@@ -18,7 +18,7 @@ export function TaskItem({
   onDelete,
   initialDone = false,
 }: TaskItemProps) {
-  const [done, setDone] = useState(initialDone);
+  const [done, setDone] = useState(initialDone); //REQUISITO 02 b
   const { showActionSheetWithOptions } = useActionSheet();
 
   useEffect(() => {
